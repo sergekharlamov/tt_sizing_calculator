@@ -1,0 +1,4 @@
+space,size,sharded,name,type,strlen,indexed
+Employees,1000000,false,EmployeeId,string,100,true
+Employees,1000000,false,Name,string,50,true
+Employees,1000000,false,Age,integer,0,false
